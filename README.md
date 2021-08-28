@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophieMu2e)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I'm Sophie Middleton's Mu2e dedicated GitHub account.
 - 📫 smidd@caltech.edu
